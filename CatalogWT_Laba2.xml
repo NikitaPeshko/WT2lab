@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<product>
+		<type>teapot</type>
+		<model>Holt223</model>
+		<specif>
+			<power MS="W">2000</power>
+			<sizeCapacity MS="l">5</sizeCapacity>
+		</specif>
+		<price curr="$">30</price>
+	</product>
+	<product>
+		<type>teapot</type>
+		<model>Greenway</model>
+		<specif>
+			<power MS="W">1800</power>
+			<sizeCapacity MS="l">3</sizeCapacity>
+		</specif>
+		<price curr="$">15</price>
+	</product>
+	<product>
+		<type>fridge</type>
+		<model>Atlant5302</model>
+		<specif>
+			<freezer>true</freezer>
+			<noFrost>true</noFrost>
+			<energyConsum MS="KW/h">300</energyConsum>
+		</specif>
+		<price curr="$">55</price>
+	</product>
+	<product>
+		<type>fridge</type>
+		<model>Atlant</model>
+		<specif>
+			<freezer>false</freezer>
+			<noFrost>true</noFrost>
+			<energyConsum MS="KW/h">175</energyConsum>
+		</specif>
+		<price curr="$">40</price>
+	</product>
+	<product>
+		<type>fridge</type>
+		<model>Atlant5402</model>
+		<specif>
+			<freezer>true</freezer>
+			<noFrost>true</noFrost>
+			<energyConsum MS="KW/h">322</energyConsum>
+		</specif>
+		<price curr="$">68</price>
+	</product>
+	<product>
+		<type>microwave</type>
+		<model>M2000</model>
+		<specif>
+			<powerGrill MS="W">1200</powerGrill>
+			<powerWave MS="W">800</powerWave>
+			<sizeCamera MS="l">20</sizeCamera>
+		</specif>
+		<price curr="$">59</price>
+	</product>
+	<product>
+		<type>microwave</type>
+		<model>M2000.35</model>
+		<specif>
+			<powerGrill MS="W">1000</powerGrill>
+			<powerWave MS="W">500</powerWave>
+			<sizeCamera MS="l">15</sizeCamera>
+		</specif>
+		<price curr="$">12</price>
+	</product>
+</catalog>
